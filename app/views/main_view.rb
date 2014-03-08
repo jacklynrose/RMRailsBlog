@@ -1,0 +1,2 @@
+class MainView < UITableView
+end
